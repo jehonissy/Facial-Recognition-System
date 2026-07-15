@@ -242,11 +242,11 @@ A short demo video is included with the project submission.
 
 This project was developed and submitted as part of my Python Internship.
 
-**Intern ID:** CITS4415
+**Intern ID:** CITS4415 
 **Intern Name:** Jehonisse Jerripothula  
 **Domain:** Python Development  
 **Organization:** CodTech IT Solutions  
-**Duration:** June 2026 – July 2026
+**Duration:*** June 2026 – July 2026
 
 ## License
 
