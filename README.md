@@ -1,5 +1,9 @@
 # Facial Recognition System
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
 A modular, real-time facial recognition system built with **Python**,
 **OpenCV**, and **face_recognition**. Enroll people from your webcam,
 recognize them live with confidence scores, log attendance automatically,
@@ -233,6 +237,16 @@ This project supports:
 - User management (Enroll, List, Remove)
 
 A short demo video is included with the project submission.
+
+## Internship Information
+
+This project was developed and submitted as part of my Python Internship.
+
+**Intern ID:** CITS4415
+**Intern Name:** Jehonisse Jerripothula  
+**Domain:** Python Development  
+**Organization:** CodTech IT Solutions  
+**Duration:** June 2026 – July 2026
 
 ## License
 
