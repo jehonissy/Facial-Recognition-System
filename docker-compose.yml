@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  facial-recognition:
+    build: .
+    container_name: facial-recognition-system
+    restart: unless-stopped
+
+    volumes:
+      - .:/app
+
+    stdin_open: true
+    tty: true
+
+    command: python main.py run

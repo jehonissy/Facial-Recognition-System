@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Python cache
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Face Recognition Data
+encodings/encodings.pkl
+attendance/attendance.csv
+unknown_faces/
+known_faces/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
